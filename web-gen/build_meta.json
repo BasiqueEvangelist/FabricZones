@@ -1,13 +1,13 @@
 {
   "data": {
-    "lightning-protections": {
-      "commit": "16d639108d9a080ae9502c09e4a6ad7d614f432c",
-      "dokka": "nightly/lightning-protections/dokka/-fabric-zones/",
+    "1.16.5": {
+      "commit": "ee3ef3213188ab755acf444667323bec5fcbe267",
+      "dokka": "nightly/1.16.5/dokka/-fabric-zones/",
       "builds": {
         "main": {
-          "path": "nightly/lightning-protections/fabric-zones-0.1.2-mc1.16.5-all.jar",
-          "sha256": "9ad939699ff31ed4bc37ead1808b3259d0617bc347a377fe582249f2a195224c",
-          "sha512": "66263ac29e3469c728c7876b5b4c51839791261a4a0e5570bec26f12f2dde26247c58f2405a6d8f0e43332b14c80cccf2989b764a659c9437bb39da4c00987fd"
+          "path": "nightly/1.16.5/fabric-zones-0.1.2-mc1.16.5-all.jar",
+          "sha256": "fd798f4f748695312c6c9016419bddfd2071c6096fd8b678e4f7cb403cb0613b",
+          "sha512": "ad6ce8ce3bc82fd54726c7f20bb33062b1e50a392e9854b6ff08b6f303704e5403c49802e7bf203410cda096c0022d12c1784766778c688299924d1d8011aca2"
         },
         "dev": {
           "path": "",
@@ -15,14 +15,14 @@
           "sha512": ""
         },
         "sources": {
-          "path": "nightly/lightning-protections/fabric-zones-0.1.2-mc1.16.5-sources.jar",
-          "sha256": "c99b77c8be8cd4dc12524928dd37fff8aed529b8961e4caf8f2496970e7892c2",
-          "sha512": "d5bb15c4fa56bf48d6910c6c36fcd8e0d03f24706bb5ee023814e630479c2c706ee6648be0f21f3c72cd73095b065174d103e061bbe0e7e70bd597753b90fb11"
+          "path": "nightly/1.16.5/fabric-zones-0.1.2-mc1.16.5-sources.jar",
+          "sha256": "e82c9602b2a2fbede9fd836f4ab1e137282844cffe6fd905ce4a5dc0d9fc167a",
+          "sha512": "c977cf9dcd39778b6ab1f6c8526d77a28f4c1850f1f32171db4804ab0d2c8bdfe177873737f751e3b658df7d5cb3d58d983c2ab3fec4ad1c7d06a12f38152f31"
         },
         "sources_dev": {
-          "path": "nightly/lightning-protections/fabric-zones-0.1.2-mc1.16.5-sources-dev.jar",
-          "sha256": "01d7a1a20ba9d3b096f9b534fdbec4baf665bd0686459226c7b6f2c0233e81fa",
-          "sha512": "beb921cb6b4bf179ee3333d80038563500c2eaf055c59aa88434f49b73646dd496bde6044121faec0c478b0d3d72983130727f25bb8b810f6d277050649d94cc"
+          "path": "nightly/1.16.5/fabric-zones-0.1.2-mc1.16.5-sources-dev.jar",
+          "sha256": "c320c50b7988fcb70f17c6beb8ac69449cf424acb640aa8b2017cf087b41c1f4",
+          "sha512": "d8ccba8bf2389ccf9e9adbdf1bd789966ad177b21d6438b38487a00ab91dfc6d3f960d95d9577967c970beb90a7e109c0b73c29a578b53e24df726e6eac0899c"
         }
       }
     }
