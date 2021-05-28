@@ -1,13 +1,13 @@
 {
   "data": {
     "lightning-protections": {
-      "commit": "036ea203744441b9996adee07c9fd8845a0495d6",
+      "commit": "16d639108d9a080ae9502c09e4a6ad7d614f432c",
       "dokka": "nightly/lightning-protections/dokka/-fabric-zones/",
       "builds": {
         "main": {
           "path": "nightly/lightning-protections/fabric-zones-0.1.2-mc1.16.5-all.jar",
-          "sha256": "826efa090e3ace6bf360bc79f175f2e7dcff339068c6f5a1e673fc0744b3bf0e",
-          "sha512": "0082bf91fe1a9f35cd7b9c09e64f7161921c3df7d8a095b79b88f6a5bf6fd00588f97f4d0556aaea6cc0a689db434ed17a08d56aa6ca84d34a7daf6fb87de5cb"
+          "sha256": "9ad939699ff31ed4bc37ead1808b3259d0617bc347a377fe582249f2a195224c",
+          "sha512": "66263ac29e3469c728c7876b5b4c51839791261a4a0e5570bec26f12f2dde26247c58f2405a6d8f0e43332b14c80cccf2989b764a659c9437bb39da4c00987fd"
         },
         "dev": {
           "path": "",
@@ -16,13 +16,13 @@
         },
         "sources": {
           "path": "nightly/lightning-protections/fabric-zones-0.1.2-mc1.16.5-sources.jar",
-          "sha256": "8c0fce6949afc0b243f5a1d4ca8f1cc1e83ebf0309aa5f5860cf9ee77cbbf026",
-          "sha512": "542684b05ee67942143851754d279f81c9d50f2792756634e5bd166fee8be74ddd8a497e3e1a53473b2b13cc7c4ceaf2858d3ff2e7bdca1dcec2158843309c66"
+          "sha256": "c99b77c8be8cd4dc12524928dd37fff8aed529b8961e4caf8f2496970e7892c2",
+          "sha512": "d5bb15c4fa56bf48d6910c6c36fcd8e0d03f24706bb5ee023814e630479c2c706ee6648be0f21f3c72cd73095b065174d103e061bbe0e7e70bd597753b90fb11"
         },
         "sources_dev": {
           "path": "nightly/lightning-protections/fabric-zones-0.1.2-mc1.16.5-sources-dev.jar",
-          "sha256": "10a2cd9e5e68e2c8c4c936edafb5dbfa2404374154b94f00d25b74f7c05c0856",
-          "sha512": "ff07325946e89ed43ad6b03fbe4eec61a24aa3316570fda7b460bf2f1aa4ab0ec17618d4bea154644bd7970ed351e9d36b0aa8f0e0d37f191dc15397ce6a8c45"
+          "sha256": "01d7a1a20ba9d3b096f9b534fdbec4baf665bd0686459226c7b6f2c0233e81fa",
+          "sha512": "beb921cb6b4bf179ee3333d80038563500c2eaf055c59aa88434f49b73646dd496bde6044121faec0c478b0d3d72983130727f25bb8b810f6d277050649d94cc"
         }
       }
     }
