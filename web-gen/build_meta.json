@@ -1,13 +1,13 @@
 {
   "data": {
-    "1.16.5": {
-      "commit": "ee3ef3213188ab755acf444667323bec5fcbe267",
-      "dokka": "nightly/1.16.5/dokka/-fabric-zones/",
+    "explosion-protections": {
+      "commit": "e4f12a9b28a601fa6315d21aee3bb0eb5f16f4b6",
+      "dokka": "nightly/explosion-protections/dokka/-fabric-zones/",
       "builds": {
         "main": {
-          "path": "nightly/1.16.5/fabric-zones-0.1.2-mc1.16.5-all.jar",
-          "sha256": "fd798f4f748695312c6c9016419bddfd2071c6096fd8b678e4f7cb403cb0613b",
-          "sha512": "ad6ce8ce3bc82fd54726c7f20bb33062b1e50a392e9854b6ff08b6f303704e5403c49802e7bf203410cda096c0022d12c1784766778c688299924d1d8011aca2"
+          "path": "nightly/explosion-protections/fabric-zones-0.1.2-mc1.16.5-all.jar",
+          "sha256": "102b115f8b1faa641e91177dc04f79a80e97da01b9c1b8fb38d428e947bdc822",
+          "sha512": "b48009060acf6e9e9034ff2fd94d88587a6c3d77d5e0fae999fed5d94263ae7fc2949894a6bbb1621ad3bb27eeef0e59cf4d9b50e52e553a3bbbc4679165fbf3"
         },
         "dev": {
           "path": "",
@@ -15,14 +15,14 @@
           "sha512": ""
         },
         "sources": {
-          "path": "nightly/1.16.5/fabric-zones-0.1.2-mc1.16.5-sources.jar",
-          "sha256": "e82c9602b2a2fbede9fd836f4ab1e137282844cffe6fd905ce4a5dc0d9fc167a",
-          "sha512": "c977cf9dcd39778b6ab1f6c8526d77a28f4c1850f1f32171db4804ab0d2c8bdfe177873737f751e3b658df7d5cb3d58d983c2ab3fec4ad1c7d06a12f38152f31"
+          "path": "nightly/explosion-protections/fabric-zones-0.1.2-mc1.16.5-sources.jar",
+          "sha256": "1f75d7f7241fba46329e87b4e08f68c14b9317341cf48b6b45e8b433c5f4b8e0",
+          "sha512": "a8dc70308f6391a97e3733b02d9e618097b0d83852690e0256b6fd71ff75de4fa1519b850df72f15ba4f8938094da8c00f9cae210ff0bd195fce2905662b49c4"
         },
         "sources_dev": {
-          "path": "nightly/1.16.5/fabric-zones-0.1.2-mc1.16.5-sources-dev.jar",
-          "sha256": "c320c50b7988fcb70f17c6beb8ac69449cf424acb640aa8b2017cf087b41c1f4",
-          "sha512": "d8ccba8bf2389ccf9e9adbdf1bd789966ad177b21d6438b38487a00ab91dfc6d3f960d95d9577967c970beb90a7e109c0b73c29a578b53e24df726e6eac0899c"
+          "path": "nightly/explosion-protections/fabric-zones-0.1.2-mc1.16.5-sources-dev.jar",
+          "sha256": "011b0cd74158376fd9bc4a7c159b5e64990a2e01933072628b1cc2594b08fc7d",
+          "sha512": "7603687bb270e7aa7e1899f7e06afb31c8fe72154edceab3bf54f6aad7e6b93a8e435b7e2c37b42f305be59908c1e9d1a45219e817734431041ec24ce90625ce"
         }
       }
     }
